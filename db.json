@@ -26,10 +26,10 @@
     }
     ]
     
-    "names": {
+    "names": [
         "Michael",
         "Tony",
         "Chris",
         "Mustafa"
-    }
+    ]
 }
