@@ -25,11 +25,5 @@
         "email": "testemail3@gmail.com"
     }
     ],
-    
-    "names": [
-        {"name": "Michael"},
-        {"name": "Tony"},
-        {"name": "Chris"},
-        {"name": "Mustafa"}
-    ]
+
 }
