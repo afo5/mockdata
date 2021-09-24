@@ -24,12 +24,12 @@
         "phone": "999-999-9999",
         "email": "testemail3@gmail.com"
     }
-    ]
+    ],
     
     "names": [
-        "Michael",
-        "Tony",
-        "Chris",
-        "Mustafa"
+        {"name", "Michael"},
+        {"name", "Tony"},
+        {"name", "Chris"},
+        {"name", "Mustafa"}
     ]
 }
