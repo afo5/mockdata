@@ -27,9 +27,9 @@
     ],
     
     "names": [
-        {"name", "Michael"},
-        {"name", "Tony"},
-        {"name", "Chris"},
-        {"name", "Mustafa"}
+        {"name": "Michael"},
+        {"name": "Tony"},
+        {"name": "Chris"},
+        {"name": "Mustafa"}
     ]
 }
