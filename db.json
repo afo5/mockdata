@@ -265,22 +265,6 @@
             "registered": "2020-04-20T04:45:42 +07:00",
             "latitude": -63.434605,
             "longitude": -101.088819
-        },
-        {
-            "_id": "6160d23e68cc01b83ee5e608",
-            "index": 14,
-            "guid": "e034f59a-df9a-4530-aa1b-8899047f719f",
-            "isActive": false,
-            "balance": "$3,677.05",
-            "age": 33,
-            "name": "Roy Gilbert",
-            "company": "NIQUENT",
-            "email": "roygilbert@niquent.com",
-            "phone": "+1 (893) 409-3660",
-            "address": "228 Fenimore Street, Dowling, North Dakota, 6540",
-            "registered": "2017-04-01T11:46:07 +07:00",
-            "latitude": 34.847699,
-            "longitude": -12.941094
         }
     ]
 }
